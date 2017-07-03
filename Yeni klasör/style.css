@@ -1,0 +1,22 @@
+h1 { color:aqua;
+}
+
+html{
+background-image: url(Uzayın-bulanık-hali.jpg);
+  Width 60%;
+    margin auto;
+    text-align: center;
+     background-size: cover;
+}
+
+body{
+    color:whitesmoke;
+}
+
+p{
+    font-size: 30
+}
+img {
+    width 5%;
+    height 5%;
+}
